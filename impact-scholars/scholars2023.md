@@ -56,6 +56,6 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #e18256; margin: 10px 0px;">11. </td>
-    <td style="text-align: left; line-height: 20px; color: var(--pst-color-muted); font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project14.html">Largest wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity</a><br>Agnessa Karapetian, Kamil Vlcek, Carolina Temporão, Hatice Busragokbunar, Sedem Buabassah</td>
+    <td style="text-align: left; line-height: 20px; color: var(--pst-color-muted); font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project14.html">Largest wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity</a><br>Agnessa Karapetian, Kamil Vlcek, Carolina Temporão, Hatice Busra Gokbunar, Sedem Buabassah</td>
 </tr>
 </table>
