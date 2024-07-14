@@ -11,4 +11,5 @@ The study investigates climate-vegetation dynamics in the Juba-Shabelle basin us
 </div>
 
 ---
-The full micropublication will be shared here in April/May 2024.
+For the full micropublication:
+https://doi.org/10.5281/zenodo.11001991
