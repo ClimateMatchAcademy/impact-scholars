@@ -32,4 +32,5 @@ In this agro-poetic refrain, lessons unfurl,<br>
 A dance with nature, a resilient swirl.<br>
 
 ---
-The full micropublication will be shared here in April/May 2024.
+For the full micropublication:
+https://doi.org/10.5281/zenodo.10987575
