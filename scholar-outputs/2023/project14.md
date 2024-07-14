@@ -13,4 +13,5 @@ width: 100%
 A graphical summary of the project
 ```
 ---
-The full micropublication will be shared here in April/May 2024.
+For the full micropublication:
+https://doi.org/10.5281/zenodo.11073190
