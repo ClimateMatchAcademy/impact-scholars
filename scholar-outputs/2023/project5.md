@@ -18,4 +18,5 @@ The Argentinian Andean-Patagonian Forest (AAPF) is a highly biodiverse temperate
 </div>
 
 ---
-The full micropublication will be shared here in April/May 2024.
+For the full micropublication:
+https://doi.org/10.5281/zenodo.12206635
