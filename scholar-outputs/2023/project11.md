@@ -11,4 +11,5 @@ El Niño Southern Oscillation (ENSO) is a naturally occurring climate event tha
 </div>
 
 ---
-The full micropublication will be shared here at the end of March 2024.
+For the full micropublication:
+https://doi.org/10.5281/zenodo.11201102
