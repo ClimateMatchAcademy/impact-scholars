@@ -11,4 +11,5 @@ The El Niño Southern Oscillation (ENSO) is known to influence global atmospheri
 </div>
 
 ---
-The full micropublication will be shared here in April/May 2024.
+For the full micropublication:
+https://doi.org/10.5281/zenodo.11069131
