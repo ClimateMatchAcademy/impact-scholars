@@ -11,4 +11,5 @@ El Nino-Southern Oscillation and Indian Ocean Dipole are two modes of interannua
 </div>
 
 ---
-The full micropublication will be shared here in April/May 2024.
+For the full micropublication:
+https://doi.org/10.5281/zenodo.11069076
