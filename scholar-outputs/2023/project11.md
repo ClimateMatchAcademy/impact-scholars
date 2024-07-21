@@ -13,3 +13,8 @@ El Niño Southern Oscillation (ENSO) is a naturally occurring climate event tha
 ---
 For the full micropublication:
 https://doi.org/10.5281/zenodo.11201102
+___
+For the presentation on Impacts of ENSO on climate variables in the Pacific region:
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VkbldtZCzfA/0.jpg)](https://www.youtube.com/watch?v=VkbldtZCzfA)
