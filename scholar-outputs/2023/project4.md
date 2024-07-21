@@ -13,3 +13,7 @@ The El Niño Southern Oscillation (ENSO) is known to influence global atmospheri
 ---
 For the full micropublication:
 https://doi.org/10.5281/zenodo.11069131
+___
+For the presentation on **Influence of ENSO on the coastal upwelling along Northwest Africa:**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Grlpch464jQ/0.jpg)](https://www.youtube.com/watch?v=Grlpch464jQ)
