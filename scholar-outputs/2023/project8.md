@@ -13,3 +13,7 @@ The study investigates climate-vegetation dynamics in the Juba-Shabelle basin us
 ---
 For the full micropublication:
 https://doi.org/10.5281/zenodo.11001991
+___
+For the presentation on **Exploring long-term climatological patterns of cloud coverage and NDVI in East Africa using NOAA’s Surface Reflectance Climate Data Record:**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqclLtZCIfM/0.jpg)](https://www.youtube.com/watch?v=nqclLtZCIfM)
