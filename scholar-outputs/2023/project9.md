@@ -13,3 +13,7 @@ El Nino-Southern Oscillation and Indian Ocean Dipole are two modes of interannua
 ---
 For the full micropublication:
 https://doi.org/10.5281/zenodo.11069076
+___
+For the presentation on **Impact of two climate variabilities, ENSO and IOD, on the Onset of Summer Monsoon over the Indonesia-North Australia Region:**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V1leEW2rnYw/0.jpg)](https://www.youtube.com/watch?v=V1leEW2rnYw)
