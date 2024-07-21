@@ -36,7 +36,7 @@ For the full micropublication:
 https://doi.org/10.5281/zenodo.10987575
 ___
 
-For the presentation on Understanding the historical and future impacts of ENSO on climate and coffee production in Colombia and Indonesia:
+For the presentation on **Understanding the historical and future impacts of ENSO on climate and coffee production in Colombia and Indonesia:**
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fR_JKVHHoAE/0.jpg)](https://www.youtube.com/watch?v=fR_JKVHHoAE)
