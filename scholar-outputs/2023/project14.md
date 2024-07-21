@@ -17,4 +17,5 @@ For the full micropublication:
 https://doi.org/10.5281/zenodo.11073190
 ___
 For the presentation on **Largest wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity:**
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KJkgIhMwrvc/0.jpg)](https://www.youtube.com/watch?v=KJkgIhMwrvc)
