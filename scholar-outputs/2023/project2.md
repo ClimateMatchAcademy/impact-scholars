@@ -6,6 +6,8 @@ Team "Rajasaurus Baris"
 
 Mentor: **Fabrizio Falasca**
 
+Reviewer: **Adolfo Lugo**
+
 In the tempest of climate's exchange,<br>
 Hurricane surges pose challenges, strange.<br>
 As the storms dance with glee,<br>
@@ -72,6 +74,6 @@ https://doi.org/10.5281/zenodo.12611241
 ___
 For the presentation on **Observing ECCO model vs tide gauges affected by Hurricane Maria:**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_mT-hI692f8/0.jpg)](https://www.youtube.com/watch?v=_mT-hI692f8)
+[![Presentation image](https://img.youtube.com/vi/_mT-hI692f8/0.jpg)](https://www.youtube.com/watch?v=_mT-hI692f8)
 
 

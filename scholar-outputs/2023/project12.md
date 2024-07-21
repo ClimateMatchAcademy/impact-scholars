@@ -4,7 +4,9 @@ Team "Protoceratops_Jitterbug_Vivace"
 
  **Elisa Nóbrega Passos**, **Lakhvinder Kaur**, **Ninibeth Gibelli Sarmiento Herrera**
 
-Mentor: **Muhammed Muhshif Karadan**
+Mentor and reviewer: **Muhammed Muhshif Karadan**
+
+Reviewer: **Lina C. Pérez-Angel**
 
 ```{figure} team-photos/team_project12.jpeg
 ---
@@ -39,4 +41,4 @@ ___
 For the presentation on **Understanding the historical and future impacts of ENSO on climate and coffee production in Colombia and Indonesia:**
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fR_JKVHHoAE/0.jpg)](https://www.youtube.com/watch?v=fR_JKVHHoAE)
+[![Presentation image](https://img.youtube.com/vi/fR_JKVHHoAE/0.jpg)](https://www.youtube.com/watch?v=fR_JKVHHoAE)
