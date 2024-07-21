@@ -10,3 +10,7 @@ The Congo River Basin (CRB) is the world's largest carbon sink and plays a vital
 ___
 For the full micropublication:
 https://doi.org/10.5281/zenodo.12192494
+___
+For the presentation on **Oceanic oscillations and Congo River Basin climatology:**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sLHtY59F0jw/0.jpg)](https://www.youtube.com/watch?v=sLHtY59F0jw)
