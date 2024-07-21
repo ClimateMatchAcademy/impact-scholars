@@ -14,4 +14,8 @@ Mato Grosso, a vital part of the Amazonian Rainforest, has experienced a conside
 ---
 For the full micropublication:
 https://doi.org/10.5281/zenodo.11002004
+___
 
+For the presentation on Exploring land cover change interactions with environmental and socioeconomic factors in a tropical region due to rapid agricultural increase:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mjw4j0LdTps/0.jpg)](https://www.youtube.com/watch?v=Mjw4j0LdTps)
