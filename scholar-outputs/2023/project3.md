@@ -15,3 +15,7 @@ The following project is a study on <b>“Assessing Spatio-Temporal Precipitatio
 ---
 For the full micropublication:
 https://doi.org/10.5281/zenodo.11077309
+___
+For the presentation on **Assessing spatio-temporal precipitation variability and extreme events in India:**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/csPZujmCpz4/0.jpg)](https://www.youtube.com/watch?v=csPZujmCpz4)
